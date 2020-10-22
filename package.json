@@ -1,0 +1,22 @@
+{
+  "name": "circle-ci",
+  "version": "1.0.0",
+  "description": "pruebas test circle ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jccetinac/circle-ci.git"
+  },
+  "author": "camilo cetina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jccetinac/circle-ci/issues"
+  },
+  "homepage": "https://github.com/jccetinac/circle-ci#readme",
+  "dependencies": {
+    "jest": "^26.6.0"
+  }
+}
